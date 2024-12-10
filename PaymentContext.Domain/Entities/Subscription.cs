@@ -27,5 +27,17 @@ namespace PaymentContext.Domain.Entities
     {
       _payments.Add(payment);
     }
+
+    public void Activate()
+    {
+      Active = true;
+      LastUpdateDate = DateTime.Now;
+    }
+    
+    public void Inactivate()
+    {
+      Active = false;
+      LastUpdateDate = DateTime.Now;
+    }
   }
 }

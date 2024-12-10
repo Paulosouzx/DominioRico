@@ -9,3 +9,8 @@ C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\obj\Debug\net8.0\Paym
 C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\obj\Debug\net8.0\refint\PaymentContext.Domain.dll
 C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.pdb
 C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\obj\Debug\net8.0\ref\PaymentContext.Domain.dll
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Shared.dll
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Shared.pdb
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.csproj.AssemblyReference.cache
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.sourcelink.json
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\obj\Debug\net8.0\PaymentC.29F7DA76.Up2Date

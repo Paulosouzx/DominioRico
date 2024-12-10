@@ -109,3 +109,9 @@ C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Tests\obj\Debug\net8.0\refin
 C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.pdb
 C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.genruntimeconfig.cache
 C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Tests\obj\Debug\net8.0\ref\PaymentContext.Tests.dll
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_PaymentContext.Tests
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Tests\bin\Debug\net8.0\PaymentContext.Domain.dll
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Tests\bin\Debug\net8.0\PaymentContext.Shared.dll
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Tests\bin\Debug\net8.0\PaymentContext.Shared.pdb
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Tests\bin\Debug\net8.0\PaymentContext.Domain.pdb
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.sourcelink.json
