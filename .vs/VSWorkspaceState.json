@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PaymentContext.Domain",
+    "\\PaymentContext.Domain\\Entities",
+    "\\PaymentContext.Tests",
+    "\\PaymentContext.Tests\\Entities"
+  ],
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,11 @@
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Domain.deps.json
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Domain.dll
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Domain.pdb
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.dll
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\obj\Debug\net8.0\refint\PaymentContext.Domain.dll
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.pdb
+C:\Users\paulo\Desktop\DominiosRicos\PaymentContext.Domain\obj\Debug\net8.0\ref\PaymentContext.Domain.dll
